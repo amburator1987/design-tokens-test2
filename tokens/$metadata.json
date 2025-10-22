@@ -1,14 +1,9 @@
 {
   "tokenSetOrder": [
-    "global",
-    "Semantic/Dark",
-    "Semantic/Light",
-    "Brand/Mode 1",
-    "Components/alias",
-    "No Mode Foundation/Mode 1",
-    "Foundation/lg",
-    "Foundation/xs",
-    "Foundation/sm",
-    "Foundation/md"
+    "mapped/darkMz",
+    "mapped/darkGr",
+    "brand/Mode 1",
+    "fonts/value",
+    "sizer/Size in PX"
   ]
 }
