@@ -1,0 +1,18 @@
+{
+  "Font-family": {
+    "value": "Proxima-Nova",
+    "type": "text"
+  },
+  "Font-weight-primary": {
+    "value": "Regular",
+    "type": "text"
+  },
+  "Font-weight-tertiary": {
+    "value": "Bold",
+    "type": "text"
+  },
+  "Font-weight-secondary": {
+    "value": "Semibold",
+    "type": "text"
+  }
+}

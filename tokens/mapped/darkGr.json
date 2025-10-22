@@ -2,177 +2,177 @@
   "tabs": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lighter}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.light}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.light}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     }
   },
   "text": {
     "link-primary": {
-      "value": "{germania.alias.tertiary.neutral-dark}",
+      "value": "{germania.alias.tertiary.light}",
       "type": "color"
     },
     "link-secondary": {
-      "value": "{germania.alias.tertiary.lighter}",
+      "value": "{germania.alias.tertiary.light}",
       "type": "color"
     },
     "content-primary": {
-      "value": "{mozzart.alias.common.lightest}",
+      "value": "{germania.alias.common.lightest}",
       "type": "color"
     },
     "content-tertiary": {
-      "value": "{mozzart.alias.common.neutral-dark}",
+      "value": "{germania.alias.common.neutral-dark}",
       "type": "color"
     },
     "higlight-primary": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "attention-primary": {
-      "value": "{mozzart.alias.success.light}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-primary 2": {
-      "value": "{mozzart.alias.common.lightest}",
+      "value": "{germania.alias.common.lightest}",
       "type": "color"
     },
     "content-secondary": {
-      "value": "{mozzart.alias.common.neutral-lighter}",
+      "value": "{germania.alias.common.neutral-light}",
       "type": "color"
     },
     "higlight-secondary": {
-      "value": "{mozzart.alias.tertiary.light}",
+      "value": "{germania.alias.tertiary.light}",
       "type": "color"
     },
     "attention-secondary": {
-      "value": "{mozzart.alias.attention.light}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-negative-primary": {
-      "value": "{mozzart.alias.common.darker}",
+      "value": "{germania.alias.common.darker}",
       "type": "color"
     },
     "content-negative-tertiary": {
-      "value": "{mozzart.alias.common.neutral-light}",
+      "value": "{germania.alias.common.neutral-light}",
       "type": "color"
     },
     "content-negtaive-secondary": {
-      "value": "{mozzart.alias.common.neutral-darker}",
+      "value": "{germania.alias.common.neutral-darker}",
       "type": "color"
     }
   },
   "icons": {
     "error": {
-      "value": "{mozzart.alias.attention.light}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-primary": {
-      "value": "{mozzart.alias.common.lightest}",
+      "value": "{germania.alias.common.lightest}",
       "type": "color"
     },
     "success-primary": {
-      "value": "{mozzart.alias.success.lightest}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-tertiary": {
-      "value": "{mozzart.alias.tertiary.light}",
+      "value": "{germania.alias.tertiary.light}",
       "type": "color"
     },
     "content-highlight": {
-      "value": "{mozzart.alias.primary.lighter}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-secondary": {
-      "value": "{mozzart.alias.common.neutral-light}",
+      "value": "{germania.alias.common.lightest}",
       "type": "color"
     },
     "success-secondary": {
-      "value": "{mozzart.alias.success.light}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-quarternary": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-negative-primary": {
-      "value": "{mozzart.alias.common.darker}",
+      "value": "{germania.alias.common.darker}",
       "type": "color"
     },
     "content-negative-tertiary": {
-      "value": "{mozzart.alias.common.neutral-light}",
+      "value": "{germania.alias.common.darker}",
       "type": "color"
     },
     "content-negative-secondary": {
-      "value": "{mozzart.alias.common.neutral-darker}",
+      "value": "{germania.alias.common.darker}",
       "type": "color"
     }
   },
   "links": {
     "text": {
       "brand": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "primary": {
-        "value": "{mozzart.alias.tertiary.neutral-dark}",
+        "value": "{germania.alias.tertiary.neutral-dark}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.neutral-dark}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.lighter}",
         "type": "color"
       },
       "brand-secondary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.secondary.neutral-lighter}",
         "type": "color"
       }
     }
@@ -180,27 +180,27 @@
   "lists": {
     "icons": {
       "content-quarternary": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "content-negative-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     }
@@ -208,65 +208,65 @@
   "menus": {
     "text": {
       "menu": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "negative": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "positive": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "negative-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       },
       "negative-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     },
     "icons": {
       "menu": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "negative": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "positive": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "nagtive-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       },
       "negative-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     },
     "border": {
       "positive": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
+        "value": "{germania.alias.common.neutral-lighter}",
         "type": "color"
       }
     },
     "surface": {
       "default": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "selected": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.light}",
         "type": "color"
       },
       "activator": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     }
@@ -274,99 +274,99 @@
   "badges": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.darkest}",
+        "value": "{germania.alias.common.darkest}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.darkest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "surface": {
       "tag": {
-        "value": "{mozzart.alias.attention.light}",
+        "value": "{germania.alias.attention.light}",
         "type": "color"
       },
       "info": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "counter": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "counter-brand": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.attention.light}",
         "type": "color"
       },
       "tag-secondary": {
-        "value": "{mozzart.alias.success.light}",
+        "value": "{germania.alias.success.light}",
         "type": "color"
       }
     }
   },
   "border": {
     "border-primary": {
-      "value": "{mozzart.alias.common.dark}",
+      "value": "{germania.alias.common.dark}",
       "type": "color"
     },
     "border-tertiary": {
-      "value": "{mozzart.alias.common.neutral-dark}",
+      "value": "{germania.alias.common.neutral-dark}",
       "type": "color"
     },
     "border-secondary": {
-      "value": "{mozzart.alias.common.neutral-darker}",
+      "value": "{germania.alias.common.neutral-darker}",
       "type": "color"
     },
     "highlight-primary": {
-      "value": "{mozzart.alias.common.light}",
+      "value": "{germania.alias.common.light}",
       "type": "color"
     },
     "highlight-tertiary": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "highlight-secondary": {
-      "value": "{mozzart.alias.tertiary.light}",
+      "value": "{germania.alias.tertiary.light}",
       "type": "color"
     },
     "border-negative-primary": {
-      "value": "{mozzart.alias.common.lighter}",
+      "value": "{germania.alias.common.lighter}",
       "type": "color"
     },
     "border-negative-tertiary": {
-      "value": "{mozzart.alias.common.neutral-lighter}",
+      "value": "{germania.alias.common.light}",
       "type": "color"
     },
     "border-negative-secondary": {
-      "value": "{mozzart.alias.common.light}",
+      "value": "{germania.alias.common.light}",
       "type": "color"
     }
   },
   "search": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     }
@@ -374,15 +374,15 @@
   "switch": {
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     }
@@ -390,31 +390,31 @@
   "timers": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     }
@@ -422,49 +422,49 @@
   "toasts": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.attention.light}",
+        "value": "{germania.alias.attention.light}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.success.lightest}",
+        "value": "{germania.alias.success.lightest}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.success.lightest}",
+        "value": "{germania.alias.success.lightest}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{mozzart.alias.attention.light}",
+        "value": "{germania.alias.attention.light}",
         "type": "color"
       }
     }
@@ -472,103 +472,103 @@
   "buttons": {
     "text": {
       "action-primary-hover": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
+        "value": "{germania.alias.common.neutral-lighter}",
         "type": "color"
       },
       "action-tertiary-hover": {
-        "value": "{mozzart.alias.tertiary.light}",
+        "value": "{germania.alias.tertiary.light}",
         "type": "color"
       },
       "action-primary-default": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "action-secondary-hover": {
-        "value": "{mozzart.alias.tertiary.light}",
+        "value": "{germania.alias.tertiary.light}",
         "type": "color"
       },
       "action-primary-disabled": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       },
       "action-tertiary-default": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.lighter}",
         "type": "color"
       },
       "action-tertiary-disable": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       },
       "action-secondary-default": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.lighter}",
         "type": "color"
       },
       "action-secondary-disabled": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       }
     },
     "icons": {
       "action-primary-hover": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
+        "value": "{germania.alias.common.neutral-lighter}",
         "type": "color"
       },
       "action-tertiary-hover": {
-        "value": "{mozzart.alias.tertiary.light}",
+        "value": "{germania.alias.tertiary.light}",
         "type": "color"
       },
       "action-primary-default": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "action-secondary-hover": {
-        "value": "{mozzart.alias.tertiary.light}",
+        "value": "{germania.alias.tertiary.light}",
         "type": "color"
       },
       "action-primary-disabled": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       },
       "action-tertiary-default": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.lighter}",
         "type": "color"
       },
       "action-tertiary-disable": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       },
       "action-secondary-default": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.lighter}",
         "type": "color"
       },
       "action-secondary-disabled": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       }
     },
     "surface": {
       "action-primary-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
+        "value": "{germania.alias.tertiary.neutral-lighter}",
         "type": "color"
       },
       "action-primary-default": {
-        "value": "{mozzart.alias.tertiary.light}",
+        "value": "{germania.alias.tertiary.light}",
         "type": "color"
       },
       "action-secondary-hover": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       },
       "action-primary-disabled": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       },
       "action-secondary-default": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       },
       "action-secondary-disabled": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     }
@@ -576,37 +576,37 @@
   "dialogs": {
     "text": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "content-highlight": {
-        "value": "{mozzart.alias.primary.lighter}",
+        "value": "{germania.color.red.400}",
         "type": "color"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "content-quarternary": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     }
@@ -614,45 +614,45 @@
   "filters": {
     "text": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "content-highlight": {
-        "value": "{mozzart.alias.primary.lighter}",
+        "value": "{germania.color.red.400}",
         "type": "color"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "content-quarternary": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     },
     "surface": {
       "content-highlight": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
+        "value": "{germania.alias.secondary.neutral-lighter}",
         "type": "color"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     }
@@ -660,31 +660,31 @@
   "headers": {
     "text": {
       "negative": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "positive": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "icons": {
       "negative": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "positive": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "border": {
       "negative": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
+        "value": "{germania.alias.common.neutral-lighter}",
         "type": "color"
       },
       "positive": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     }
@@ -692,95 +692,95 @@
   "sliders": {
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     }
   },
   "surface": {
     "nav-primary": {
-      "value": "{mozzart.alias.primary.neutral-lighter}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-primary": {
-      "value": "{mozzart.alias.common.darker}",
+      "value": "{germania.alias.common.darker}",
       "type": "color"
     },
     "success-primary": {
-      "value": "{mozzart.alias.success.lightest}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-tertiary": {
-      "value": "{mozzart.alias.common.neutral-darker}",
+      "value": "{germania.alias.common.neutral-darker}",
       "type": "color"
     },
     "attention-primary": {
-      "value": "{mozzart.alias.attention.lightest}",
+      "value": "{germania.alias.attention.light}",
       "type": "color"
     },
     "content-highlight": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "content-secondary": {
-      "value": "{mozzart.alias.common.dark}",
+      "value": "{germania.alias.common.dark}",
       "type": "color"
     },
     "attention-tertiary": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
+      "value": "{germania.alias.primary.neutral-lighter}",
       "type": "color"
     },
     "attention-secondary": {
-      "value": "{mozzart.alias.attention.light}",
+      "value": "{germania.alias.attention.light}",
       "type": "color"
     },
     "content-negative-primary": {
-      "value": "{mozzart.alias.common.lightest}",
+      "value": "{germania.alias.common.lightest}",
       "type": "color"
     },
     "content-negative-tertiary": {
-      "value": "{mozzart.alias.common.light}",
+      "value": "{germania.alias.common.light}",
       "type": "color"
     },
     "content-negative-secondary": {
-      "value": "{mozzart.alias.common.lighter}",
+      "value": "{germania.alias.common.lighter}",
       "type": "color"
     }
   },
   "tabsNav": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.darkest}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.darkest}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.secondary.neutral-lighter}",
         "type": "color"
       }
     }
@@ -788,29 +788,29 @@
   "checkbox": {
     "text": {
       "negative-primary": {
-        "value": "{mozzart.alias.common.darkest}",
+        "value": "{germania.alias.common.darkest}",
         "type": "color"
       },
       "positive-primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "negative-secondary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       },
       "positive-secondary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.light}",
         "type": "color"
       }
     },
     "icons": {
       "content-highlight": {
-        "value": "{mozzart.alias.primary.lighter}",
+        "value": "{germania.alias.primary.lighter}",
         "type": "color"
       },
       "content-quarternary": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "content-negative-primary": {
@@ -818,23 +818,23 @@
         "type": "color"
       },
       "content-negative-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       }
     },
     "border": {
       "border-tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       }
     },
     "surface": {
       "default": {
-        "value": "{mozzart.alias.common.darkest}",
+        "value": "{germania.alias.common.darkest}",
         "type": "color"
       },
       "negative": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     }
@@ -842,11 +842,11 @@
   "linksNav": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.neutral-dark}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.secondary.neutral-lighter}",
         "type": "color"
       }
     }
@@ -854,25 +854,25 @@
   "tooltips": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     }
@@ -880,35 +880,35 @@
   "acordions": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "highlight": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
+        "value": "{germania.alias.common.neutral-lighter}",
         "type": "color"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     },
     "surface": {
       "hover": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       },
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "highlight": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     }
@@ -916,29 +916,29 @@
   "buttonNav": {
     "text": {
       "button-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
+        "value": "{germania.alias.tertiary.neutral-dark}",
         "type": "color"
       },
       "button-deafult": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.neutral-lighter}",
         "type": "color"
       },
       "button-disabled": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       }
     },
     "icons": {
       "button-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
+        "value": "{germania.alias.tertiary.neutral-dark}",
         "type": "color"
       },
       "button-deafult": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.neutral-lighter}",
         "type": "color"
       },
       "button-disabled": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       }
     }
@@ -946,73 +946,73 @@
   "navigation": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.darkest}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       },
       "button-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
+        "value": "{germania.alias.tertiary.neutral-dark}",
         "type": "color"
       },
       "button-deafult": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.neutral-lighter}",
         "type": "color"
       },
       "button-disabled": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.darkest}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.secondary.neutral-lighter}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{mozzart.alias.primary.lighter}",
+        "value": "{germania.alias.secondary.neutral-lighter}",
         "type": "color"
       },
       "button-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
+        "value": "{germania.alias.tertiary.neutral-dark}",
         "type": "color"
       },
       "button-deafult": {
-        "value": "{mozzart.alias.tertiary.lighter}",
+        "value": "{germania.alias.tertiary.neutral-lighter}",
         "type": "color"
       },
       "button-disabled": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.primary.neutral-lighter}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.secondary.neutral-lighter}",
         "type": "color"
       }
     }
@@ -1020,33 +1020,33 @@
   "pagination": {
     "text": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "border": {
       "border-tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       }
     },
     "surface": {
       "content-highlight": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       },
       "content-negative-secondary": {
-        "value": "{mozzart.alias.common.lighter}",
+        "value": "{germania.alias.common.lighter}",
         "type": "color"
       }
     }
@@ -1054,13 +1054,13 @@
   "scroll-bar": {
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     }
@@ -1068,41 +1068,41 @@
   "datepickers": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
+        "value": "{germania.alias.common.neutral-lighter}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{mozzart.alias.common.dark}",
+        "value": "{germania.alias.common.dark}",
         "type": "color"
       },
       "border-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     },
     "surface": {
       "selected": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       },
       "highlight": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     }
@@ -1110,21 +1110,21 @@
   "text blocks": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.lighter}",
+        "value": "{germania.alias.common.lighter}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.primary.lighter}",
+        "value": "{germania.alias.secondary.light}",
         "type": "color"
       }
     }
@@ -1132,41 +1132,41 @@
   "text fields": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.primary.lighter}",
+        "value": "{germania.alias.secondary.light}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.light}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{mozzart.alias.attention.light}",
+        "value": "{germania.alias.attention.light}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
+        "value": "{germania.alias.common.neutral-lighter}",
         "type": "color"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       },
       "tertiary": {
@@ -1182,11 +1182,11 @@
   "bottom sheet": {
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     }
@@ -1194,11 +1194,11 @@
   "radio button": {
     "icons": {
       "default": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.neutral-light}",
         "type": "color"
       },
       "selected": {
-        "value": "{mozzart.alias.secondary.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     }
@@ -1212,35 +1212,35 @@
   "info-messages": {
     "text": {
       "content-negative-primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "content-negtaive-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     },
     "icons": {
       "error": {
-        "value": "{mozzart.alias.attention.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "content-highlight": {
-        "value": "{mozzart.alias.primary.lighter}",
+        "value": "{germania.color.red.400}",
         "type": "color"
       },
       "success-secondary": {
-        "value": "{mozzart.alias.success.light}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       },
       "content-negative-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     },
     "surface": {
       "content-negative-tertiary": {
-        "value": "{mozzart.alias.common.light}",
+        "value": "{germania.alias.common.light}",
         "type": "color"
       }
     }
@@ -1254,31 +1254,31 @@
   "navigation-bar": {
     "text": {
       "content-tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
+        "value": "{germania.alias.common.neutral-dark}",
         "type": "color"
       },
       "content-negative-primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     },
     "icons": {
       "content-negative-primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "content-negative-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{mozzart.alias.common.darker}",
+        "value": "{germania.alias.common.darker}",
         "type": "color"
       },
       "content-negative-primary": {
-        "value": "{mozzart.alias.common.lightest}",
+        "value": "{germania.alias.common.lightest}",
         "type": "color"
       }
     }
@@ -1286,13 +1286,13 @@
   "loading-and-progress": {
     "border": {
       "border-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
+        "value": "{germania.alias.common.neutral-darker}",
         "type": "color"
       }
     },
     "surface": {
       "success-primary": {
-        "value": "{mozzart.alias.success.lightest}",
+        "value": "{germania.alias.primary.neutral-lighter}",
         "type": "color"
       }
     }
