@@ -2,1298 +2,1298 @@
   "tabs": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lighter}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       },
       "quaternary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       },
       "quaternary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "text": {
     "link-primary": {
-      "value": "{germania.alias.tertiary.neutral-dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.tertiary.neutral-dark}"
     },
     "link-secondary": {
-      "value": "{germania.alias.tertiary.lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.tertiary.lighter}"
     },
     "content-primary": {
-      "value": "{mozzart.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.lightest}"
     },
     "content-tertiary": {
-      "value": "{mozzart.alias.common.neutral-dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-dark}"
     },
     "higlight-primary": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.secondary.neutral-lighter}"
     },
     "attention-primary": {
-      "value": "{mozzart.alias.success.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.success.light}"
     },
     "content-primary 2": {
-      "value": "{mozzart.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.lightest}"
     },
     "content-secondary": {
-      "value": "{mozzart.alias.common.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-lighter}"
     },
     "higlight-secondary": {
-      "value": "{mozzart.alias.tertiary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.tertiary.light}"
     },
     "attention-secondary": {
-      "value": "{mozzart.alias.attention.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.attention.light}"
     },
     "content-negative-primary": {
-      "value": "{mozzart.alias.common.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.darker}"
     },
     "content-negative-tertiary": {
-      "value": "{mozzart.alias.common.neutral-light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-light}"
     },
     "content-negtaive-secondary": {
-      "value": "{mozzart.alias.common.neutral-darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-darker}"
     }
   },
   "icons": {
     "error": {
-      "value": "{mozzart.alias.attention.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.attention.light}"
     },
     "content-primary": {
-      "value": "{mozzart.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.lightest}"
     },
     "success-primary": {
-      "value": "{mozzart.alias.success.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.success.lightest}"
     },
     "content-tertiary": {
-      "value": "{mozzart.alias.tertiary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.tertiary.light}"
     },
     "content-highlight": {
-      "value": "{mozzart.alias.primary.lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.primary.lighter}"
     },
     "content-secondary": {
-      "value": "{mozzart.alias.common.neutral-light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-light}"
     },
     "success-secondary": {
-      "value": "{mozzart.alias.success.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.success.light}"
     },
     "content-quarternary": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.secondary.neutral-lighter}"
     },
     "content-negative-primary": {
-      "value": "{mozzart.alias.common.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.darker}"
     },
     "content-negative-tertiary": {
-      "value": "{mozzart.alias.common.neutral-light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-light}"
     },
     "content-negative-secondary": {
-      "value": "{mozzart.alias.common.neutral-darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-darker}"
     }
   },
   "links": {
     "text": {
       "brand": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       },
       "primary": {
-        "value": "{mozzart.alias.tertiary.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.neutral-dark}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "secondary": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "brand-secondary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "lists": {
     "icons": {
       "content-quarternary": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.neutral-lighter}"
       },
       "content-negative-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     }
   },
   "menus": {
     "text": {
       "menu": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "negative": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "positive": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "negative-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       },
       "negative-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     },
     "icons": {
       "menu": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "negative": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "positive": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "nagtive-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       },
       "negative-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     },
     "border": {
       "positive": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-lighter}"
       }
     },
     "surface": {
       "default": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "selected": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       },
       "activator": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     }
   },
   "badges": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darkest}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darkest}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "surface": {
       "tag": {
-        "value": "{mozzart.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.attention.light}"
       },
       "info": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "counter": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       },
       "counter-brand": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       },
       "tag-secondary": {
-        "value": "{mozzart.alias.success.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.success.light}"
       }
     }
   },
   "border": {
     "border-primary": {
-      "value": "{mozzart.alias.common.dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.dark}"
     },
     "border-tertiary": {
-      "value": "{mozzart.alias.common.neutral-dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-dark}"
     },
     "border-secondary": {
-      "value": "{mozzart.alias.common.neutral-darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-darker}"
     },
     "highlight-primary": {
-      "value": "{mozzart.alias.common.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.light}"
     },
     "highlight-tertiary": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.secondary.neutral-lighter}"
     },
     "highlight-secondary": {
-      "value": "{mozzart.alias.tertiary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.tertiary.light}"
     },
     "border-negative-primary": {
-      "value": "{mozzart.alias.common.lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.lighter}"
     },
     "border-negative-tertiary": {
-      "value": "{mozzart.alias.common.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-lighter}"
     },
     "border-negative-secondary": {
-      "value": "{mozzart.alias.common.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.light}"
     }
   },
   "search": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     }
   },
   "switch": {
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     }
   },
   "timers": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "toasts": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.attention.light}"
       },
       "secondary": {
-        "value": "{mozzart.alias.success.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.success.lightest}"
       },
       "quaternary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.success.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.success.lightest}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       },
       "quaternary": {
-        "value": "{mozzart.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.attention.light}"
       }
     }
   },
   "buttons": {
     "text": {
       "action-primary-hover": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-lighter}"
       },
       "action-tertiary-hover": {
-        "value": "{mozzart.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.light}"
       },
       "action-primary-default": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "action-secondary-hover": {
-        "value": "{mozzart.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.light}"
       },
       "action-primary-disabled": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       },
       "action-tertiary-default": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "action-tertiary-disable": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       },
       "action-secondary-default": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "action-secondary-disabled": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       }
     },
     "icons": {
       "action-primary-hover": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-lighter}"
       },
       "action-tertiary-hover": {
-        "value": "{mozzart.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.light}"
       },
       "action-primary-default": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "action-secondary-hover": {
-        "value": "{mozzart.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.light}"
       },
       "action-primary-disabled": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       },
       "action-tertiary-default": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "action-tertiary-disable": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       },
       "action-secondary-default": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "action-secondary-disabled": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       }
     },
     "surface": {
       "action-primary-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.neutral-lighter}"
       },
       "action-primary-default": {
-        "value": "{mozzart.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.light}"
       },
       "action-secondary-hover": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       },
       "action-primary-disabled": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       },
       "action-secondary-default": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       },
       "action-secondary-disabled": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     }
   },
   "dialogs": {
     "text": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "content-highlight": {
-        "value": "{mozzart.alias.primary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.primary.lighter}"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       },
       "content-quarternary": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.neutral-lighter}"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       }
     }
   },
   "filters": {
     "text": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-lighter}"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "content-highlight": {
-        "value": "{mozzart.alias.primary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.primary.lighter}"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       },
       "content-quarternary": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.neutral-lighter}"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     },
     "surface": {
       "content-highlight": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.neutral-lighter}"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     }
   },
   "headers": {
     "text": {
       "negative": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "positive": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "icons": {
       "negative": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "positive": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "border": {
       "negative": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-lighter}"
       },
       "positive": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     }
   },
   "sliders": {
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "surface": {
     "nav-primary": {
-      "value": "{mozzart.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.primary.neutral-lighter}"
     },
     "content-primary": {
-      "value": "{mozzart.alias.common.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.darker}"
     },
     "success-primary": {
-      "value": "{mozzart.alias.success.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.success.lightest}"
     },
     "content-tertiary": {
-      "value": "{mozzart.alias.common.neutral-darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.neutral-darker}"
     },
     "attention-primary": {
-      "value": "{mozzart.alias.attention.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.attention.lightest}"
     },
     "content-highlight": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.secondary.neutral-lighter}"
     },
     "content-secondary": {
-      "value": "{mozzart.alias.common.dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.dark}"
     },
     "attention-tertiary": {
-      "value": "{mozzart.alias.secondary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.secondary.neutral-lighter}"
     },
     "attention-secondary": {
-      "value": "{mozzart.alias.attention.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.attention.light}"
     },
     "content-negative-primary": {
-      "value": "{mozzart.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.lightest}"
     },
     "content-negative-tertiary": {
-      "value": "{mozzart.alias.common.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.light}"
     },
     "content-negative-secondary": {
-      "value": "{mozzart.alias.common.lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{mozzart.alias.common.lighter}"
     }
   },
   "tabsNav": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "checkbox": {
     "text": {
       "negative-primary": {
-        "value": "{mozzart.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darkest}"
       },
       "positive-primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "negative-secondary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       },
       "positive-secondary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       }
     },
     "icons": {
       "content-highlight": {
-        "value": "{mozzart.alias.primary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.primary.lighter}"
       },
       "content-quarternary": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.neutral-lighter}"
       },
       "content-negative-primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "content-negative-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       }
     },
     "border": {
       "border-tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       }
     },
     "surface": {
       "default": {
-        "value": "{mozzart.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darkest}"
       },
       "negative": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     }
   },
   "linksNav": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "tooltips": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     }
   },
   "acordions": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "highlight": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-lighter}"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     },
     "surface": {
       "hover": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       },
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "highlight": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "buttonNav": {
     "text": {
       "button-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.neutral-lighter}"
       },
       "button-deafult": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "button-disabled": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       }
     },
     "icons": {
       "button-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.neutral-lighter}"
       },
       "button-deafult": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "button-disabled": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       }
     }
   },
   "navigation": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       },
       "button-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.neutral-lighter}"
       },
       "button-deafult": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "button-disabled": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       },
       "quaternary": {
-        "value": "{mozzart.alias.primary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.primary.lighter}"
       },
       "button-hover": {
-        "value": "{mozzart.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.neutral-lighter}"
       },
       "button-deafult": {
-        "value": "{mozzart.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.tertiary.lighter}"
       },
       "button-disabled": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.primary.neutral-lighter}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       },
       "secondary": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "pagination": {
     "text": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "border": {
       "border-tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       }
     },
     "surface": {
       "content-highlight": {
-        "value": "{mozzart.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.neutral-lighter}"
       },
       "content-secondary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       },
       "content-negative-secondary": {
-        "value": "{mozzart.alias.common.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lighter}"
       }
     }
   },
   "scroll-bar": {
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     }
   },
   "datepickers": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-lighter}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{mozzart.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.dark}"
       },
       "border-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     },
     "surface": {
       "selected": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       },
       "highlight": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "text blocks": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lighter}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{mozzart.alias.primary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.primary.lighter}"
       }
     }
   },
   "text fields": {
     "text": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{mozzart.alias.primary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.primary.lighter}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       }
     },
     "border": {
       "primary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.attention.light}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-lighter}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lighter}"
       }
     }
   },
   "bottom sheet": {
     "surface": {
       "primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     }
   },
   "radio button": {
     "icons": {
       "default": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       },
       "selected": {
-        "value": "{mozzart.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.secondary.light}"
       }
     }
   },
   "-------------": {
     "divajder": {
-      "value": "#f9f8f8",
-      "type": "color"
+      "$type": "color",
+      "$value": "#f9f8f8"
     }
   },
   "info-messages": {
     "text": {
       "content-negative-primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "content-negtaive-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     },
     "icons": {
       "error": {
-        "value": "{mozzart.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.attention.light}"
       },
       "content-highlight": {
-        "value": "{mozzart.alias.primary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.primary.lighter}"
       },
       "success-secondary": {
-        "value": "{mozzart.alias.success.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.success.light}"
       },
       "content-negative-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     },
     "surface": {
       "content-negative-tertiary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       }
     }
   },
   "--------------": {
     "divajder": {
-      "value": "#f9f8f8",
-      "type": "color"
+      "$type": "color",
+      "$value": "#f9f8f8"
     }
   },
   "navigation-bar": {
     "text": {
       "content-tertiary": {
-        "value": "{mozzart.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-dark}"
       },
       "content-negative-primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       }
     },
     "icons": {
       "content-negative-primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "content-negative-tertiary": {
-        "value": "{mozzart.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-light}"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{mozzart.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.darker}"
       },
       "content-negative-primary": {
-        "value": "{mozzart.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lightest}"
       }
     }
   },
   "loading-and-progress": {
     "border": {
       "border-secondary": {
-        "value": "{mozzart.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.neutral-darker}"
       }
     },
     "surface": {
       "success-primary": {
-        "value": "{mozzart.alias.success.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.success.lightest}"
       }
     }
   }

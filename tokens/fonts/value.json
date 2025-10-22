@@ -1,18 +1,18 @@
 {
   "Font-family": {
-    "value": "Proxima-Nova",
-    "type": "text"
+    "$type": "text",
+    "$value": "Proxima-Nova"
   },
   "Font-weight-primary": {
-    "value": "Regular",
-    "type": "text"
+    "$type": "text",
+    "$value": "Regular"
   },
   "Font-weight-tertiary": {
-    "value": "Bold",
-    "type": "text"
+    "$type": "text",
+    "$value": "Bold"
   },
   "Font-weight-secondary": {
-    "value": "Semibold",
-    "type": "text"
+    "$type": "text",
+    "$value": "Semibold"
   }
 }

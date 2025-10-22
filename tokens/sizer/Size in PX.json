@@ -1,108 +1,108 @@
 {
   "rhythm": {
     "s": {
-      "value": 8,
-      "type": "number"
+      "$type": "number",
+      "$value": 8
     },
     "lg": {
-      "value": 24,
-      "type": "number"
+      "$type": "number",
+      "$value": 24
     },
     "md": {
-      "value": 16,
-      "type": "number"
+      "$type": "number",
+      "$value": 16
     },
     "sm": {
-      "value": 12,
-      "type": "number"
+      "$type": "number",
+      "$value": 12
     },
     "xl": {
-      "value": 32,
-      "type": "number"
+      "$type": "number",
+      "$value": 32
     },
     "xs": {
-      "value": 4,
-      "type": "number"
+      "$type": "number",
+      "$value": 4
     },
     "2xl": {
-      "value": 40,
-      "type": "number"
+      "$type": "number",
+      "$value": 40
     },
     "3xl": {
-      "value": 48,
-      "type": "number"
+      "$type": "number",
+      "$value": 48
     },
     "4xl": {
-      "value": 56,
-      "type": "number"
+      "$type": "number",
+      "$value": 56
     },
     "5xl": {
-      "value": 64,
-      "type": "number"
+      "$type": "number",
+      "$value": 64
     },
     "6xl": {
-      "value": 72,
-      "type": "number"
+      "$type": "number",
+      "$value": 72
     },
     "7xl": {
-      "value": 80,
-      "type": "number"
+      "$type": "number",
+      "$value": 80
     },
     "none": {
-      "value": 0,
-      "type": "number"
+      "$type": "number",
+      "$value": 0
     }
   },
   "borderWidth": {
     "s": {
-      "value": 2,
-      "type": "number"
+      "$type": "number",
+      "$value": 2
     },
     "sm": {
-      "value": 4,
-      "type": "number"
+      "$type": "number",
+      "$value": 4
     },
     "xs": {
-      "value": 1,
-      "type": "number"
+      "$type": "number",
+      "$value": 1
     },
     "none": {
-      "value": 0,
-      "type": "number"
+      "$type": "number",
+      "$value": 0
     }
   },
   "borderRadius": {
     "s": {
-      "value": 4,
-      "type": "number"
+      "$type": "number",
+      "$value": 4
     },
     "lg": {
-      "value": 16,
-      "type": "number"
+      "$type": "number",
+      "$value": 16
     },
     "md": {
-      "value": 12,
-      "type": "number"
+      "$type": "number",
+      "$value": 12
     },
     "sm": {
-      "value": 8,
-      "type": "number"
+      "$type": "number",
+      "$value": 8
     },
     "xl": {
-      "value": 24,
-      "type": "number"
+      "$type": "number",
+      "$value": 24
     },
     "xs": {
-      "value": 2,
-      "type": "number"
+      "$type": "number",
+      "$value": 2
     },
     "2xl": {
-      "value": 32,
-      "type": "number"
+      "$type": "number",
+      "$value": 32
     },
     "none": {
-      "value": 0,
-      "type": "number"
+      "$type": "number",
+      "$value": 0
     }
   }
 }

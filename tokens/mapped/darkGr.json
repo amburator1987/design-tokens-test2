@@ -2,1298 +2,1298 @@
   "tabs": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       },
       "secondary": {
-        "value": "{germania.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.light}"
       },
       "quaternary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       },
       "secondary": {
-        "value": "{germania.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.light}"
       },
       "quaternary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     },
     "border": {
       "primary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "secondary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     }
   },
   "text": {
     "link-primary": {
-      "value": "{germania.alias.tertiary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.tertiary.light}"
     },
     "link-secondary": {
-      "value": "{germania.alias.tertiary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.tertiary.light}"
     },
     "content-primary": {
-      "value": "{germania.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.lightest}"
     },
     "content-tertiary": {
-      "value": "{germania.alias.common.neutral-dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.neutral-dark}"
     },
     "higlight-primary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "attention-primary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-primary 2": {
-      "value": "{germania.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.lightest}"
     },
     "content-secondary": {
-      "value": "{germania.alias.common.neutral-light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.neutral-light}"
     },
     "higlight-secondary": {
-      "value": "{germania.alias.tertiary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.tertiary.light}"
     },
     "attention-secondary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-negative-primary": {
-      "value": "{germania.alias.common.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.darker}"
     },
     "content-negative-tertiary": {
-      "value": "{germania.alias.common.neutral-light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.neutral-light}"
     },
     "content-negtaive-secondary": {
-      "value": "{germania.alias.common.neutral-darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.neutral-darker}"
     }
   },
   "icons": {
     "error": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-primary": {
-      "value": "{germania.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.lightest}"
     },
     "success-primary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-tertiary": {
-      "value": "{germania.alias.tertiary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.tertiary.light}"
     },
     "content-highlight": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-secondary": {
-      "value": "{germania.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.lightest}"
     },
     "success-secondary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-quarternary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-negative-primary": {
-      "value": "{germania.alias.common.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.darker}"
     },
     "content-negative-tertiary": {
-      "value": "{germania.alias.common.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.darker}"
     },
     "content-negative-secondary": {
-      "value": "{germania.alias.common.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.darker}"
     }
   },
   "links": {
     "text": {
       "brand": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "primary": {
-        "value": "{germania.alias.tertiary.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-dark}"
       },
       "tertiary": {
-        "value": "{germania.alias.tertiary.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-dark}"
       },
       "secondary": {
-        "value": "{germania.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.lighter}"
       },
       "brand-secondary": {
-        "value": "{germania.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.neutral-lighter}"
       }
     }
   },
   "lists": {
     "icons": {
       "content-quarternary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "content-negative-tertiary": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "content-secondary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     }
   },
   "menus": {
     "text": {
       "menu": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "negative": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "positive": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "negative-tertiary": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       },
       "negative-secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     },
     "icons": {
       "menu": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "negative": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "positive": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "nagtive-tertiary": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       },
       "negative-secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     },
     "border": {
       "positive": {
-        "value": "{germania.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-lighter}"
       }
     },
     "surface": {
       "default": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "selected": {
-        "value": "{germania.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.light}"
       },
       "activator": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     }
   },
   "badges": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darkest}"
       },
       "tertiary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "surface": {
       "tag": {
-        "value": "{germania.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.attention.light}"
       },
       "info": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "counter": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "counter-brand": {
-        "value": "{germania.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.attention.light}"
       },
       "tag-secondary": {
-        "value": "{germania.alias.success.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.success.light}"
       }
     }
   },
   "border": {
     "border-primary": {
-      "value": "{germania.alias.common.dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.dark}"
     },
     "border-tertiary": {
-      "value": "{germania.alias.common.neutral-dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.neutral-dark}"
     },
     "border-secondary": {
-      "value": "{germania.alias.common.neutral-darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.neutral-darker}"
     },
     "highlight-primary": {
-      "value": "{germania.alias.common.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.light}"
     },
     "highlight-tertiary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "highlight-secondary": {
-      "value": "{germania.alias.tertiary.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.tertiary.light}"
     },
     "border-negative-primary": {
-      "value": "{germania.alias.common.lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.lighter}"
     },
     "border-negative-tertiary": {
-      "value": "{germania.alias.common.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.light}"
     },
     "border-negative-secondary": {
-      "value": "{germania.alias.common.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.light}"
     }
   },
   "search": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "secondary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     }
   },
   "switch": {
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       },
       "tertiary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     }
   },
   "timers": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     },
     "border": {
       "primary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       },
       "secondary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     }
   },
   "toasts": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{germania.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.attention.light}"
       },
       "secondary": {
-        "value": "{germania.alias.success.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.success.lightest}"
       },
       "quaternary": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       }
     },
     "border": {
       "primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "tertiary": {
-        "value": "{germania.alias.success.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.success.lightest}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       },
       "quaternary": {
-        "value": "{germania.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.attention.light}"
       }
     }
   },
   "buttons": {
     "text": {
       "action-primary-hover": {
-        "value": "{germania.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-lighter}"
       },
       "action-tertiary-hover": {
-        "value": "{germania.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.light}"
       },
       "action-primary-default": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "action-secondary-hover": {
-        "value": "{germania.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.light}"
       },
       "action-primary-disabled": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       },
       "action-tertiary-default": {
-        "value": "{germania.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.lighter}"
       },
       "action-tertiary-disable": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       },
       "action-secondary-default": {
-        "value": "{germania.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.lighter}"
       },
       "action-secondary-disabled": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       }
     },
     "icons": {
       "action-primary-hover": {
-        "value": "{germania.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-lighter}"
       },
       "action-tertiary-hover": {
-        "value": "{germania.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.light}"
       },
       "action-primary-default": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "action-secondary-hover": {
-        "value": "{germania.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.light}"
       },
       "action-primary-disabled": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       },
       "action-tertiary-default": {
-        "value": "{germania.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.lighter}"
       },
       "action-tertiary-disable": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       },
       "action-secondary-default": {
-        "value": "{germania.alias.tertiary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.lighter}"
       },
       "action-secondary-disabled": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       }
     },
     "surface": {
       "action-primary-hover": {
-        "value": "{germania.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-lighter}"
       },
       "action-primary-default": {
-        "value": "{germania.alias.tertiary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.light}"
       },
       "action-secondary-hover": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       },
       "action-primary-disabled": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       },
       "action-secondary-default": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       },
       "action-secondary-disabled": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     }
   },
   "dialogs": {
     "text": {
       "content-primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "content-highlight": {
-        "value": "{germania.color.red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.color.red.400}"
       },
       "content-secondary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "content-quarternary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     }
   },
   "filters": {
     "text": {
       "content-primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "content-secondary": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "content-highlight": {
-        "value": "{germania.color.red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.color.red.400}"
       },
       "content-secondary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "content-quarternary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     },
     "surface": {
       "content-highlight": {
-        "value": "{germania.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.neutral-lighter}"
       },
       "content-secondary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     }
   },
   "headers": {
     "text": {
       "negative": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "positive": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "icons": {
       "negative": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "positive": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "border": {
       "negative": {
-        "value": "{germania.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-lighter}"
       },
       "positive": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     }
   },
   "sliders": {
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       },
       "secondary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     }
   },
   "surface": {
     "nav-primary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-primary": {
-      "value": "{germania.alias.common.darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.darker}"
     },
     "success-primary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-tertiary": {
-      "value": "{germania.alias.common.neutral-darker}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.neutral-darker}"
     },
     "attention-primary": {
-      "value": "{germania.alias.attention.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.attention.light}"
     },
     "content-highlight": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "content-secondary": {
-      "value": "{germania.alias.common.dark}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.dark}"
     },
     "attention-tertiary": {
-      "value": "{germania.alias.primary.neutral-lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.primary.neutral-lighter}"
     },
     "attention-secondary": {
-      "value": "{germania.alias.attention.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.attention.light}"
     },
     "content-negative-primary": {
-      "value": "{germania.alias.common.lightest}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.lightest}"
     },
     "content-negative-tertiary": {
-      "value": "{germania.alias.common.light}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.light}"
     },
     "content-negative-secondary": {
-      "value": "{germania.alias.common.lighter}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{germania.alias.common.lighter}"
     }
   },
   "tabsNav": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darkest}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darkest}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.neutral-lighter}"
       }
     }
   },
   "checkbox": {
     "text": {
       "negative-primary": {
-        "value": "{germania.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darkest}"
       },
       "positive-primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "negative-secondary": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       },
       "positive-secondary": {
-        "value": "{germania.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.light}"
       }
     },
     "icons": {
       "content-highlight": {
-        "value": "{germania.alias.primary.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.lighter}"
       },
       "content-quarternary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "content-negative-primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "content-negative-tertiary": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       }
     },
     "border": {
       "border-tertiary": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       }
     },
     "surface": {
       "default": {
-        "value": "{germania.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darkest}"
       },
       "negative": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     }
   },
   "linksNav": {
     "text": {
       "primary": {
-        "value": "{germania.alias.tertiary.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-dark}"
       },
       "secondary": {
-        "value": "{germania.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.neutral-lighter}"
       }
     }
   },
   "tooltips": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     },
     "border": {
       "primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     }
   },
   "acordions": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "highlight": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-lighter}"
       }
     },
     "border": {
       "primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     },
     "surface": {
       "hover": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       },
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "highlight": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     }
   },
   "buttonNav": {
     "text": {
       "button-hover": {
-        "value": "{germania.alias.tertiary.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-dark}"
       },
       "button-deafult": {
-        "value": "{germania.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-lighter}"
       },
       "button-disabled": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       }
     },
     "icons": {
       "button-hover": {
-        "value": "{germania.alias.tertiary.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-dark}"
       },
       "button-deafult": {
-        "value": "{germania.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-lighter}"
       },
       "button-disabled": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       }
     }
   },
   "navigation": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darkest}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       },
       "button-hover": {
-        "value": "{germania.alias.tertiary.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-dark}"
       },
       "button-deafult": {
-        "value": "{germania.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-lighter}"
       },
       "button-disabled": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.darkest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darkest}"
       },
       "tertiary": {
-        "value": "{germania.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.neutral-lighter}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       },
       "quaternary": {
-        "value": "{germania.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.neutral-lighter}"
       },
       "button-hover": {
-        "value": "{germania.alias.tertiary.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-dark}"
       },
       "button-deafult": {
-        "value": "{germania.alias.tertiary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.tertiary.neutral-lighter}"
       },
       "button-disabled": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       }
     },
     "border": {
       "primary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "tertiary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "secondary": {
-        "value": "{germania.alias.secondary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.neutral-lighter}"
       }
     }
   },
   "pagination": {
     "text": {
       "content-primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "icons": {
       "content-primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "border": {
       "border-tertiary": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       }
     },
     "surface": {
       "content-highlight": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "content-secondary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       },
       "content-negative-secondary": {
-        "value": "{germania.alias.common.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lighter}"
       }
     }
   },
   "scroll-bar": {
     "border": {
       "primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     }
   },
   "datepickers": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-lighter}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     },
     "border": {
       "border-primary": {
-        "value": "{germania.alias.common.dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.dark}"
       },
       "border-secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     },
     "surface": {
       "selected": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       },
       "highlight": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     }
   },
   "text blocks": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{germania.alias.common.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lighter}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "secondary": {
-        "value": "{germania.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.light}"
       }
     }
   },
   "text fields": {
     "text": {
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       }
     },
     "icons": {
       "primary": {
-        "value": "{germania.alias.secondary.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.secondary.light}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       }
     },
     "border": {
       "primary": {
-        "value": "{germania.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.light}"
       },
       "tertiary": {
-        "value": "{germania.alias.attention.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.attention.light}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-lighter}"
       }
     },
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       },
       "tertiary": {
-        "value": "{mozzart.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.light}"
       },
       "secondary": {
-        "value": "{mozzart.alias.common.lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{mozzart.alias.common.lighter}"
       }
     }
   },
   "bottom sheet": {
     "surface": {
       "primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     }
   },
   "radio button": {
     "icons": {
       "default": {
-        "value": "{germania.alias.common.neutral-light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-light}"
       },
       "selected": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     }
   },
   "-------------": {
     "divajder": {
-      "value": "#f9f8f8",
-      "type": "color"
+      "$type": "color",
+      "$value": "#f9f8f8"
     }
   },
   "info-messages": {
     "text": {
       "content-negative-primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "content-negtaive-secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     },
     "icons": {
       "error": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "content-highlight": {
-        "value": "{germania.color.red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.color.red.400}"
       },
       "success-secondary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       },
       "content-negative-secondary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     },
     "surface": {
       "content-negative-tertiary": {
-        "value": "{germania.alias.common.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.light}"
       }
     }
   },
   "--------------": {
     "divajder": {
-      "value": "#f9f8f8",
-      "type": "color"
+      "$type": "color",
+      "$value": "#f9f8f8"
     }
   },
   "navigation-bar": {
     "text": {
       "content-tertiary": {
-        "value": "{germania.alias.common.neutral-dark}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-dark}"
       },
       "content-negative-primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     },
     "icons": {
       "content-negative-primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "content-negative-tertiary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       }
     },
     "surface": {
       "content-primary": {
-        "value": "{germania.alias.common.darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.darker}"
       },
       "content-negative-primary": {
-        "value": "{germania.alias.common.lightest}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.lightest}"
       }
     }
   },
   "loading-and-progress": {
     "border": {
       "border-secondary": {
-        "value": "{germania.alias.common.neutral-darker}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.common.neutral-darker}"
       }
     },
     "surface": {
       "success-primary": {
-        "value": "{germania.alias.primary.neutral-lighter}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{germania.alias.primary.neutral-lighter}"
       }
     }
   }
