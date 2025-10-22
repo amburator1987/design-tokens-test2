@@ -3,7 +3,7 @@
     "text": {
       "primary": {
         "$type": "color",
-        "$value": "{acordions.border.primary}"
+        "$value": "{mozzart.alias.common.lighter}"
       },
       "tertiary": {
         "$type": "color",
