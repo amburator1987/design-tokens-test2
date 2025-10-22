@@ -1,0 +1,108 @@
+{
+  "rhythm": {
+    "s": {
+      "value": 8,
+      "type": "number"
+    },
+    "lg": {
+      "value": 24,
+      "type": "number"
+    },
+    "md": {
+      "value": 16,
+      "type": "number"
+    },
+    "sm": {
+      "value": 12,
+      "type": "number"
+    },
+    "xl": {
+      "value": 32,
+      "type": "number"
+    },
+    "xs": {
+      "value": 4,
+      "type": "number"
+    },
+    "2xl": {
+      "value": 40,
+      "type": "number"
+    },
+    "3xl": {
+      "value": 48,
+      "type": "number"
+    },
+    "4xl": {
+      "value": 56,
+      "type": "number"
+    },
+    "5xl": {
+      "value": 64,
+      "type": "number"
+    },
+    "6xl": {
+      "value": 72,
+      "type": "number"
+    },
+    "7xl": {
+      "value": 80,
+      "type": "number"
+    },
+    "none": {
+      "value": 0,
+      "type": "number"
+    }
+  },
+  "borderWidth": {
+    "s": {
+      "value": 2,
+      "type": "number"
+    },
+    "sm": {
+      "value": 4,
+      "type": "number"
+    },
+    "xs": {
+      "value": 1,
+      "type": "number"
+    },
+    "none": {
+      "value": 0,
+      "type": "number"
+    }
+  },
+  "borderRadius": {
+    "s": {
+      "value": 4,
+      "type": "number"
+    },
+    "lg": {
+      "value": 16,
+      "type": "number"
+    },
+    "md": {
+      "value": 12,
+      "type": "number"
+    },
+    "sm": {
+      "value": 8,
+      "type": "number"
+    },
+    "xl": {
+      "value": 24,
+      "type": "number"
+    },
+    "xs": {
+      "value": 2,
+      "type": "number"
+    },
+    "2xl": {
+      "value": 32,
+      "type": "number"
+    },
+    "none": {
+      "value": 0,
+      "type": "number"
+    }
+  }
+}
